@@ -1,0 +1,6 @@
+C:\workspace\CSharp\Playground\AsciiArt\bin\Release\AsciiArt.exe.config
+C:\workspace\CSharp\Playground\AsciiArt\bin\Release\AsciiArt.exe
+C:\workspace\CSharp\Playground\AsciiArt\bin\Release\AsciiArt.pdb
+C:\workspace\CSharp\Playground\AsciiArt\obj\Release\AsciiArt.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\AsciiArt\obj\Release\AsciiArt.exe
+C:\workspace\CSharp\Playground\AsciiArt\obj\Release\AsciiArt.pdb

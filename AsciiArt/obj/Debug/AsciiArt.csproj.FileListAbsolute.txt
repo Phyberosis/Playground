@@ -1,0 +1,7 @@
+C:\workspace\CSharp\Playground\AsciiArt\bin\Debug\AsciiArt.exe.config
+C:\workspace\CSharp\Playground\AsciiArt\bin\Debug\AsciiArt.exe
+C:\workspace\CSharp\Playground\AsciiArt\bin\Debug\AsciiArt.pdb
+C:\workspace\CSharp\Playground\AsciiArt\obj\Debug\AsciiArt.csprojAssemblyReference.cache
+C:\workspace\CSharp\Playground\AsciiArt\obj\Debug\AsciiArt.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\AsciiArt\obj\Debug\AsciiArt.exe
+C:\workspace\CSharp\Playground\AsciiArt\obj\Debug\AsciiArt.pdb

@@ -1,0 +1,10 @@
+C:\workspace\CSharp\Playground\Playground\bin\Debug\Playground.exe.config
+C:\workspace\CSharp\Playground\Playground\bin\Debug\Playground.exe
+C:\workspace\CSharp\Playground\Playground\bin\Debug\Playground.pdb
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.csprojAssemblyReference.cache
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.Form1.resources
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.Properties.Resources.resources
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.csproj.GenerateResource.cache
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.exe
+C:\workspace\CSharp\Playground\Playground\obj\Debug\Playground.pdb

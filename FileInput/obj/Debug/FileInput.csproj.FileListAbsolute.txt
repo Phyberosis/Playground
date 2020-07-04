@@ -1,0 +1,7 @@
+C:\workspace\CSharp\Playground\FileInput\bin\Debug\FileInput.exe.config
+C:\workspace\CSharp\Playground\FileInput\bin\Debug\FileInput.exe
+C:\workspace\CSharp\Playground\FileInput\bin\Debug\FileInput.pdb
+C:\workspace\CSharp\Playground\FileInput\obj\Debug\FileInput.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\FileInput\obj\Debug\FileInput.exe
+C:\workspace\CSharp\Playground\FileInput\obj\Debug\FileInput.pdb
+C:\workspace\CSharp\Playground\FileInput\obj\Debug\FileInput.csprojAssemblyReference.cache

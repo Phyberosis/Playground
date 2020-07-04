@@ -1,0 +1,7 @@
+C:\workspace\CSharp\Playground\ScreenInput\obj\Debug\ScreenInput.csprojAssemblyReference.cache
+C:\workspace\CSharp\Playground\ScreenInput\obj\Debug\ScreenInput.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\ScreenInput\bin\Debug\ScreenInput.exe.config
+C:\workspace\CSharp\Playground\ScreenInput\bin\Debug\ScreenInput.exe
+C:\workspace\CSharp\Playground\ScreenInput\bin\Debug\ScreenInput.pdb
+C:\workspace\CSharp\Playground\ScreenInput\obj\Debug\ScreenInput.exe
+C:\workspace\CSharp\Playground\ScreenInput\obj\Debug\ScreenInput.pdb

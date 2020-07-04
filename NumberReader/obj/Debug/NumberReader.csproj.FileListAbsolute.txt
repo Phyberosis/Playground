@@ -1,0 +1,14 @@
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\NumberReader.exe.config
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\NumberReader.exe
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\NumberReader.pdb
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\FileInput.exe
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\FileInput.pdb
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\FileInput.exe.config
+C:\workspace\CSharp\Playground\NumberReader\obj\Debug\NumberReader.csprojAssemblyReference.cache
+C:\workspace\CSharp\Playground\NumberReader\obj\Debug\NumberReader.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\NumberReader\obj\Debug\NumberReader.csproj.CopyComplete
+C:\workspace\CSharp\Playground\NumberReader\obj\Debug\NumberReader.exe
+C:\workspace\CSharp\Playground\NumberReader\obj\Debug\NumberReader.pdb
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\ScreenInput.exe
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\ScreenInput.pdb
+C:\workspace\CSharp\Playground\NumberReader\bin\Debug\ScreenInput.exe.config
