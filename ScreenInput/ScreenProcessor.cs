@@ -42,6 +42,11 @@ namespace ScreenInput
             it = InstanceCount;
         }
 
+        public Bitmap Get()
+        {
+            return img;
+        }
+
         private void savePolarized(bool[,] b, string path)
         {
             Bitmap img = new Bitmap(b.GetLength(0), b.GetLength(1));

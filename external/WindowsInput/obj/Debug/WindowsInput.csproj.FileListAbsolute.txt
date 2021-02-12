@@ -1,0 +1,7 @@
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\bin\Debug\WindowsInput.xml
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\bin\Debug\WindowsInput.dll
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\obj\Debug\WindowsInput.csprojAssemblyReference.cache
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\obj\Debug\WindowsInput.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\obj\Debug\WindowsInput.dll
+C:\workspace\CSharp\Autokeys2\external\WindowsInput\obj\Debug\WindowsInput.pdb

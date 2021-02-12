@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+sOSm4zTEHE4n7jHmEvbSeLm7Xbk/NE7GxkjwQzKWNbjonV84gkatkgYXXB1pQzVknUvvGjVX2DxG8aBLFZTpA==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\CSharp\\Playground\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phybe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phybe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

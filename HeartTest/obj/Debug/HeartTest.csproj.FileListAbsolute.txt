@@ -1,0 +1,16 @@
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\HeartTest.exe.config
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\HeartTest.exe
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\HeartTest.pdb
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\ScreenInput.exe
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\ScreenInput.pdb
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\ScreenInput.exe.config
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.csprojAssemblyReference.cache
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.Form1.resources
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.Properties.Resources.resources
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.csproj.GenerateResource.cache
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.csproj.CopyComplete
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.exe
+C:\workspace\CSharp\Playground\HeartTest\obj\Debug\HeartTest.pdb
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\MouseSimulator.dll
+C:\workspace\CSharp\Playground\HeartTest\bin\Debug\MouseSimulator.pdb
